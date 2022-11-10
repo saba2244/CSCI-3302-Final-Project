@@ -1,4 +1,4 @@
-#VRML_SIM R2022b utf8
+#VRML_SIM R2023a utf8
 
 EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2022b/projects/objects/backgrounds/protos/TexturedBackground.proto"
 EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2022b/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
@@ -81,22 +81,22 @@ DEF beer_bottles Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_base_color.png"
+                    "../protos/textures/heineken_base_color.png"
                   ]
                 }
                 roughnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_roughness.jpg"
+                    "../protos/textures/heineken_base_color.png"
                   ]
                 }
                 metalnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_metalness.jpg"
+                    "../protos/textures/heineken_base_color.png"
                   ]
                 }
                 normalMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_normal.jpg"
+                    "../protos/textures/heineken_base_color.png"
                   ]
                 }
               }
@@ -207,22 +207,22 @@ DEF beer_bottles Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_base_color.png"
+                    "../protos/textures/heineken_base_color.png"
                   ]
                 }
                 roughnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_roughness.jpg"
+                    "../protos/textures/heineken_roughness.jpg"
                   ]
                 }
                 metalnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_metalness.jpg"
+                    "../protos/textures/heineken_metalness.jpg"
                   ]
                 }
                 normalMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_normal.jpg"
+                    "../protos/textures/heineken_normal.jpg"
                   ]
                 }
               }
@@ -333,22 +333,22 @@ DEF beer_bottles Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_base_color.png"
+                    "../protos/textures/heineken_base_color.png"
                   ]
                 }
                 roughnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_roughness.jpg"
+                    "../protos/textures/heineken_roughness.jpg"
                   ]
                 }
                 metalnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_metalness.jpg"
+                    "../protos/textures/heineken_metalness.jpg"
                   ]
                 }
                 normalMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_normal.jpg"
+                    "../protos/textures/heineken_normal.jpg"
                   ]
                 }
               }
@@ -459,22 +459,22 @@ DEF beer_bottles Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_base_color.png"
+                    "../protos/textures/heineken_base_color.png"
                   ]
                 }
                 roughnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_roughness.jpg"
+                    "../protos/textures/heineken_roughness.jpg"
                   ]
                 }
                 metalnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_metalness.jpg"
+                    "../protos/textures/heineken_metalness.jpg"
                   ]
                 }
                 normalMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_normal.jpg"
+                    "../protos/textures/heineken_normal.jpg"
                   ]
                 }
               }
@@ -585,22 +585,22 @@ DEF beer_bottles Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_base_color.png"
+                    "../protos/textures/heineken_base_color.png"
                   ]
                 }
                 roughnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_roughness.jpg"
+                    "../protos/textures/heineken_roughness.jpg"
                   ]
                 }
                 metalnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_metalness.jpg"
+                    "../protos/textures/heineken_metalness.jpg"
                   ]
                 }
                 normalMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_normal.jpg"
+                    "../protos/textures/heineken_normal.jpg"
                   ]
                 }
               }
@@ -711,22 +711,22 @@ DEF beer_bottles Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_base_color.png"
+                    "../protos/textures/heineken_base_color.png"
                   ]
                 }
                 roughnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_roughness.jpg"
+                    "../protos/textures/heineken_roughness.jpg"
                   ]
                 }
                 metalnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_metalness.jpg"
+                    "../protos/textures/heineken_metalness.jpg"
                   ]
                 }
                 normalMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_normal.jpg"
+                    "../protos/textures/heineken_normal.jpg"
                   ]
                 }
               }
@@ -837,22 +837,22 @@ DEF beer_bottles Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_base_color.png"
+                    "../protos/textures/heineken_base_color.png"
                   ]
                 }
                 roughnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_roughness.jpg"
+                    "../protos/textures/heineken_roughness.jpg"
                   ]
                 }
                 metalnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_metalness.jpg"
+                    "../protos/textures/heineken_metalness.jpg"
                   ]
                 }
                 normalMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_normal.jpg"
+                    "../protos/textures/heineken_normal.jpg"
                   ]
                 }
               }
@@ -963,22 +963,22 @@ DEF beer_bottles Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_base_color.png"
+                    "../protos/textures/heineken_base_color.png"
                   ]
                 }
                 roughnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_roughness.jpg"
+                    "../protos/textures/heineken_roughness.jpg"
                   ]
                 }
                 metalnessMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_metalness.jpg"
+                    "../protos/textures/heineken_metalness.jpg"
                   ]
                 }
                 normalMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/heineken_normal.jpg"
+                    "../protos/textures/heineken_normal.jpg"
                   ]
                 }
               }
@@ -1366,7 +1366,7 @@ Solid {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/biscuit_box.jpg"
+                "../protos/textures/biscuit_box.jpg"
               ]
             }
             roughness 0.2
@@ -1426,7 +1426,7 @@ Solid {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/biscuit_box.jpg"
+                "../protos/textures/biscuit_box.jpg"
               ]
             }
             roughness 0.2
@@ -1486,7 +1486,7 @@ Solid {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/biscuit_box.jpg"
+                "../protos/textures/biscuit_box.jpg"
               ]
             }
             roughness 0.2
@@ -1546,7 +1546,7 @@ Solid {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/biscuit_box.jpg"
+                "../protos/textures/biscuit_box.jpg"
               ]
             }
             roughness 0.2
@@ -1648,7 +1648,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -1713,7 +1713,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -1778,7 +1778,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -1843,7 +1843,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -1908,7 +1908,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -1973,7 +1973,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2038,7 +2038,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2103,7 +2103,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2168,7 +2168,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2238,7 +2238,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2303,7 +2303,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2368,7 +2368,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2433,7 +2433,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2498,7 +2498,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2563,7 +2563,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2628,7 +2628,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2693,7 +2693,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2758,7 +2758,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2828,7 +2828,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2893,7 +2893,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -2958,7 +2958,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3023,7 +3023,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3088,7 +3088,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3153,7 +3153,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3218,7 +3218,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3283,7 +3283,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3348,7 +3348,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3418,7 +3418,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3483,7 +3483,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3548,7 +3548,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3613,7 +3613,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3678,7 +3678,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3743,7 +3743,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3808,7 +3808,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3873,7 +3873,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -3938,7 +3938,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4008,7 +4008,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4073,7 +4073,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4138,7 +4138,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4203,7 +4203,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4268,7 +4268,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4333,7 +4333,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4398,7 +4398,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4463,7 +4463,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4528,7 +4528,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4598,7 +4598,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4663,7 +4663,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4728,7 +4728,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4793,7 +4793,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4858,7 +4858,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4923,7 +4923,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -4988,7 +4988,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -5053,7 +5053,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -5118,7 +5118,7 @@ DEF biscuitbox Transform {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/cereal_box_2.jpg"
+                    "../protos/textures/cereal_box_2.jpg"
                   ]
                 }
                 roughness 0.25
@@ -5205,7 +5205,7 @@ DEF honey_jars Group {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/bee_lid.jpg"
+                    "../protos/textures/bee_lid.jpg"
                   ]
                 }
                 roughness 0.1
@@ -5279,7 +5279,7 @@ DEF honey_jars Group {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/bee_lid.jpg"
+                    "../protos/textures/bee_lid.jpg"
                   ]
                 }
                 roughness 0.1
@@ -5353,7 +5353,7 @@ DEF honey_jars Group {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/bee_lid.jpg"
+                    "../protos/textures/bee_lid.jpg"
                   ]
                 }
                 roughness 0.1
@@ -5427,7 +5427,7 @@ DEF honey_jars Group {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/bee_lid.jpg"
+                    "../protos/textures/bee_lid.jpg"
                   ]
                 }
                 roughness 0.1
@@ -5501,7 +5501,7 @@ DEF honey_jars Group {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/bee_lid.jpg"
+                    "../protos/textures/bee_lid.jpg"
                   ]
                 }
                 roughness 0.1
@@ -5584,7 +5584,7 @@ DEF honey_jars Group {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/bee_lid.jpg"
+                    "../protos/textures/bee_lid.jpg"
                   ]
                 }
                 roughness 0.1
@@ -5658,7 +5658,7 @@ DEF honey_jars Group {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/bee_lid.jpg"
+                    "../protos/textures/bee_lid.jpg"
                   ]
                 }
                 roughness 0.1
@@ -5732,7 +5732,7 @@ DEF honey_jars Group {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/bee_lid.jpg"
+                    "../protos/textures/bee_lid.jpg"
                   ]
                 }
                 roughness 0.1
@@ -5806,7 +5806,7 @@ DEF honey_jars Group {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/bee_lid.jpg"
+                    "../protos/textures/bee_lid.jpg"
                   ]
                 }
                 roughness 0.1
@@ -5880,7 +5880,7 @@ DEF honey_jars Group {
               appearance PBRAppearance {
                 baseColorMap ImageTexture {
                   url [
-                    "/Users/correll/Downloads/final_project/protos/textures/bee_lid.jpg"
+                    "../protos/textures/bee_lid.jpg"
                   ]
                 }
                 roughness 0.1
@@ -5942,7 +5942,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -5972,12 +5972,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -6034,7 +6034,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -6064,12 +6064,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -6126,7 +6126,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -6156,12 +6156,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -6218,7 +6218,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -6248,12 +6248,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -6310,7 +6310,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -6340,12 +6340,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -6402,7 +6402,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -6432,12 +6432,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -6494,7 +6494,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -6524,12 +6524,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -6586,7 +6586,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -6616,12 +6616,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -6678,7 +6678,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -6708,12 +6708,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -6770,7 +6770,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -6800,12 +6800,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -6862,7 +6862,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -6892,12 +6892,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -6954,7 +6954,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -6984,12 +6984,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -7046,7 +7046,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -7076,12 +7076,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -7138,7 +7138,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -7168,12 +7168,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -7230,7 +7230,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -7260,12 +7260,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -7327,7 +7327,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -7357,12 +7357,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -7419,7 +7419,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -7449,12 +7449,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -7511,7 +7511,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -7541,12 +7541,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -7603,7 +7603,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -7633,12 +7633,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -7695,7 +7695,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -7725,12 +7725,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -7787,7 +7787,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -7817,12 +7817,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -7879,7 +7879,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -7909,12 +7909,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -7971,7 +7971,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -8001,12 +8001,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -8063,7 +8063,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -8093,12 +8093,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -8155,7 +8155,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -8185,12 +8185,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -8247,7 +8247,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -8277,12 +8277,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -8339,7 +8339,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -8369,12 +8369,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -8431,7 +8431,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -8461,12 +8461,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -8523,7 +8523,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -8553,12 +8553,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
@@ -8615,7 +8615,7 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/blue_jar_lid.jpg"
+                "../protos/textures/blue_jar_lid.jpg"
               ]
             }
             roughness 0.1
@@ -8645,12 +8645,12 @@ DEF jamjar Transform {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar.jpg"
+                "../protos/textures/jam_jar.jpg"
               ]
             }
             roughnessMap ImageTexture {
               url [
-                "/Users/correll/Downloads/final_project/protos/textures/jam_jar_roughness.jpg"
+                "../protos/textures/jam_jar_roughness.jpg"
               ]
             }
             metalness 0
